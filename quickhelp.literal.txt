@@ -1,0 +1,8 @@
+﻿R"000(
+f13 finner den første fredag den trettende etter angitt dato. Datoen angis
+med ISO format, eksempelvis 2019-04-01 for å angi første april 2019.
+
+     Kommando:      Effekt:
+           f13      Bruker dagens dato som default startpunkt.
+f13 2019-04-01      Bruker 2019-04-01 som startpunkt.
+         f13 ?      Viser denne hjelpteksten.)000"
