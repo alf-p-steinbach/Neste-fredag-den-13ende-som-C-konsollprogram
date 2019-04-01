@@ -1,6 +1,6 @@
 ﻿## Noter for bygging av C++ konsollprogrammet.
 
-Denne C++koden bruker [*cpp-core*-mikrobiblioteket](https://github.com/alf-p-steinbach/cppx-core), som i sin tur bruker et enda mer mikroskopisk lite bibliotek kalt [*C header wrappers*](https://github.com/alf-p-steinbach/C-header-wrappers). Begge disse er rene header-biblioteker, som betyr at de ikke behøver å bygges, men *cpp-core* krever C++17 eller senere. Med g++ betyr det å bruke en kommando à la
+Denne C++koden bruker [*cppx-core*-mikrobiblioteket](https://github.com/alf-p-steinbach/cppx-core), som i sin tur bruker et enda mer mikroskopisk lite bibliotek kalt [*C header wrappers*](https://github.com/alf-p-steinbach/C-header-wrappers). Begge disse er rene header-biblioteker, som betyr at de ikke behøver å bygges, men *cppx-core* krever C++17 eller senere. Med g++ betyr det å bruke en kommando à la
 
 > ***`g++ -std=c++17 -I. main.cpp -o f13`***
 
