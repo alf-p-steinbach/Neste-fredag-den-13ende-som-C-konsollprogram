@@ -19,4 +19,4 @@ mens med Visual C++ er det mer krøkkete å få kompilatoren standard-konform:
 >  
 > [E:\root\writings\articles\technical\norwegian\kode-24\fredag-13\app\c++]  
 > \> ***`f13`***  
-165 dager etter 1. april 2019 kommer fredag 13. september... :-o
+> 165 dager etter 1. april 2019 kommer fredag 13. september... :-o
